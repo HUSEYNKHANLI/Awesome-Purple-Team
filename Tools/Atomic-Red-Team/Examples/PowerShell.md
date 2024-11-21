@@ -1,8 +1,5 @@
-
----
-
 #### `Tools/Atomic-Red-Team/Examples/PowerShell.md`
-```markdown
+
 # PowerShell Examples for Atomic Red Team
 
 ## Simulating PowerShell Commands
