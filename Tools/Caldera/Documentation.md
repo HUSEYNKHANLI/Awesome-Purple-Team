@@ -1,8 +1,5 @@
-
----
-
 ### `Tools/Caldera/Documentation.md`
-```markdown
+
 # Caldera
 
 Caldera is an automated adversary emulation platform designed to test and improve detection capabilities.
