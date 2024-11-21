@@ -1,6 +1,3 @@
-
----
-
 ### `Tools/Prelude-Operator/Documentation.md`
 ```markdown
 # Prelude Operator
