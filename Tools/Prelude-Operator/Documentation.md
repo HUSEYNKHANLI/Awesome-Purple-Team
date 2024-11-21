@@ -1,5 +1,5 @@
 ### `Tools/Prelude-Operator/Documentation.md`
-```markdown
+
 # Prelude Operator
 
 Prelude Operator is a platform for continuous security testing in CI/CD environments.
