@@ -17,7 +17,7 @@ Welcome to the **Awesome Purple Team** repository! This is a curated collection 
 - [Purple Team Best Practices](Resources/Purple-Team-Best-Practices.md)
 
 ## Contributions
-We welcome contributions! See [CONTRIBUTING.md](Contributing.md) for details.
+We welcome contributions!
 
 ## License
 This repository is licensed under [MIT License](LICENSE).
